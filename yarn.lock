@@ -1621,6 +1621,11 @@
   dependencies:
     "@hapi/hoek" "^9.0.0"
 
+"@ionic/prettier-config@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@ionic/prettier-config/-/prettier-config-2.0.0.tgz#91d45fdab9dc0d1f231076592eff67a9d38d1274"
+  integrity sha512-ageMx54B9qqS1scnFW3kQW2NW8HyXwUM/p9c1YSWFKr6Yct7YVNbJFY3EcFapaNTiDnwo+GLlPRt+wST6E8AfA==
+
 "@jest/schemas@^29.4.0":
   version "29.4.0"
   resolved "https://registry.yarnpkg.com/@jest/schemas/-/schemas-29.4.0.tgz#0d6ad358f295cc1deca0b643e6b4c86ebd539f17"

@@ -72,9 +72,15 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'design-system',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Design System',
+          },
+          {
+            type: 'doc',
+            docId: 'wordpress',
+            position: 'left',
+            label: 'WordPress',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -133,7 +139,18 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      docs: {
+        sidebar: {
+          // autoCollapseCategories: true,
+          // hideable: true,
+          // breadcrumbs: false,
+        },
+      },
     }),
+
+  plugins: [
+
+  ]
 };
 
 module.exports = config;
