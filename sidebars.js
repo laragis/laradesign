@@ -16,6 +16,7 @@ const sidebars = {
   designSystem: [
     'design-system',
     'design-system/foundations',
+    'design-system/figma',
     {
       type: 'category',
       label: 'Components',
