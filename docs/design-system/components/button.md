@@ -1,18 +1,33 @@
 ---
 title: Button
 ---
+Type
 
 Variant
-- 
+- solid
+- plain
+- soft
+- outlined
+- bordered
+- flat
+
+Rounded
+- true
+- false
+
+Icon
+- true
+- false
 
 Size
-- Small
-- Default
-- Large
+- sm
+- md
+- lg
+- xl
+- 2xl
 
 State
 - Default
 - Hover
-- Active
 - Focused
 - Disabled
